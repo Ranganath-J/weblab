@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="4style.css"?>
+
+<students>
+    <student>
+        <usn>1TD24CS001</usn>
+        <name>Bhuvan</name>
+        <college>BMS Institute of Tecknology and Management</college>
+        <programme>Computer Science</programme>
+        <year>2024</year>
+        <email>bhuvan@gmail.com</email>
+    </student>
+
+    <student>
+        <usn>1TD24CS002</usn>
+        <name>Priya Sharma</name>
+        <college>BMS Institute of Tecknology and Management</college>
+        <programme>Information Science</programme>
+        <year>2023</year>
+        <email>priya@gmail.com</email>
+    </student>
+
+    <student>
+        <usn>1TD24CS003</usn>
+        <name>Rahul Kumar</name>
+        <college>BMS Institute of Tecknology and Management</college>
+        <programme>Electronics Engineering</programme>
+        <year>2022</year>
+        <email>rahul@gmail.com</email>
+    </student>
+</students>
